@@ -149,7 +149,7 @@ def compute_funnel(snapshots: list[dict]) -> dict:
     if not presence:
         return {"items": [], "total_hours": 0, "other_hours": 0}
 
-    total_hours = sum(presence.values())
+    total_hours = len(snapshots) * 2.0
 
     # 排序：按存在时间降序
     sorted_items = sorted(presence.items(), key=lambda x: x[1], reverse=True)
