@@ -1,0 +1,22 @@
+# Cookie 文件（包含敏感信息，绝对不能提交）
+tb_cookies.txt
+cookies_*.txt
+
+# 反向工程 JS 文件（太大且非项目必需）
+base.js
+tb_index.js
+core_common.js
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# 旧数据文件（已由 history.json 替代）
+tieba_hot_forums.json
+
+# 备份文件
+*.bak
