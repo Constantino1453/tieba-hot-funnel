@@ -14553,5 +14553,210 @@
         "slogan": "DOTA2玩家聚居地"
       }
     ]
+  },
+  {
+    "ts": "2026-07-18T16:51:52Z",
+    "forums": [
+      {
+        "id": 17019292,
+        "name": "抗压背锅",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=2d07ca6aec014c08193b2ca73a406a35/a2cc7cd98d1001e9fd2253ccfd0e7bec55e797d3.jpg?tbpicau=2026-07-30-05_c2e058d26994c19d1b2e6cc9281e25bf",
+        "member_num": 6048871,
+        "post_num": 191852889,
+        "slogan": "电竞爱好者聚集地，超越游戏，玩出精彩~"
+      },
+      {
+        "id": 28000798,
+        "name": "三角洲行动陪玩",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=50fb946072a85edffa8cfa21796f611e/f636afc379310a555fd323c4f14543a98226100f.jpg?tbpicau=2026-07-30-05_eac5ab788aeeb0c09b853b63ef2ba2d2",
+        "member_num": 166995,
+        "post_num": 20638170,
+        "slogan": "查看环境、后付、双压、解决百分之百问题"
+      },
+      {
+        "id": 21841105,
+        "name": "孙笑川",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=2e6564b48b11728b302d8820f8c7abf3/1c950a7b02087bf4f5b4bcccb4d3572c11dfcfb8.jpg?tbpicau=2026-07-30-05_d982f9d9b7c313ce38329879ca1b4a80",
+        "member_num": 7701661,
+        "post_num": 226989513,
+        "slogan": "猜猜我是谁"
+      },
+      {
+        "id": 27814154,
+        "name": "绝区零内鬼",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=802d56994c7b02080cc93be352e29aee/3801213fb80e7becbacc7ddd692eb9389b506bfc.jpg?tbpicau=2026-07-30-05_d90089e1fd48c5215bea8296ec3a953e",
+        "member_num": 176787,
+        "post_num": 4608449,
+        "slogan": "只有绝区零，只要绝区零"
+      },
+      {
+        "id": 8960697,
+        "name": "kpl",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=20e984091543fbf2c52ca2218045a2bd/6609c93d70cf3bc779886ced9700baa1cd112a23.jpg?tbpicau=2026-07-30-05_0f505e2f0235baf859fdf209df9d5976",
+        "member_num": 1808589,
+        "post_num": 56426513,
+        "slogan": "王者荣耀职业联赛-KPL粉丝聚集地。"
+      },
+      {
+        "id": 7046,
+        "name": "奥特曼",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=bb265ba8ef014c08193b2ca73a406a35/a2cc7cd98d1001e96b03c20efe0e7bec54e797f0.jpg?tbpicau=2026-07-30-05_bef91a8579bd7e50e93c5be3af85631d",
+        "member_num": 1217026,
+        "post_num": 28416421,
+        "slogan": "光之国的英雄，就在我们守护的心中。"
+      },
+      {
+        "id": 8226656,
+        "name": "lol陪玩",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=3bc50e7af1cd7b89e96c3e813f1f2a9a/9922720e0cf3d7ca940931c6e51fbe096a63a987.jpg?tbpicau=2026-07-30-05_131274fbfc47c4bd21d4e8f45792dd91",
+        "member_num": 8393068,
+        "post_num": 265764342,
+        "slogan": "全网妹子最多，高手最多的贴吧"
+      },
+      {
+        "id": 837839,
+        "name": "王者荣耀",
+        "avatar": "https://imgsrc.baidu.com/forum/pic/item/78310a55b319ebc41b5e01e88c26cffc1e171698.jpg",
+        "member_num": 14538764,
+        "post_num": 448217132,
+        "slogan": "全球首款5V5英雄公平对战手游"
+      },
+      {
+        "id": 27752863,
+        "name": "崩坏星穹铁道内鬼",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=473393deb4d3572c66e298deba280b1a/37d12f2eb9389b5002202465c335e5dde7116e2e.jpg?tbpicau=2026-07-30-05_c54c411a6e0df4fb17d8445896caacb4",
+        "member_num": 422006,
+        "post_num": 22171644,
+        "slogan": "能黑不能反，能夸不能孝，全网最热本游论坛"
+      },
+      {
+        "id": 1680539,
+        "name": "尐家军",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=947760367b81800a6ee58d0c810e5bc7/f703738da9773912f6341cd8ef198618367ae27d.jpg?tbpicau=2026-07-30-05_1a041473aa85d60ce667f7d3eb598e04",
+        "member_num": 852630,
+        "post_num": 68899788,
+        "slogan": "畅聊主播心路历程"
+      },
+      {
+        "id": 25327918,
+        "name": "明日方舟",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=623f75dba6fe9925cb0c6d52049336e2/faedab64034f78f0af20f7ed3f310a55b3191c80.jpg?tbpicau=2026-07-30-05_4269fe761b849e4338a1b79d499acccd",
+        "member_num": 1996133,
+        "post_num": 91298013,
+        "slogan": "从现在开始，我们需要按照时间计划进行"
+      },
+      {
+        "id": 27995444,
+        "name": "三角洲行动",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=86272bd5173d26972ed30c5f65c0dac6/a6efce1b9d16fdfa899ad0f1f28f8c5494ee7b3e.jpg?tbpicau=2026-07-30-05_c532fa4916d8d263306f0cb281284d21",
+        "member_num": 674983,
+        "post_num": 12811470,
+        "slogan": "全新【裂变】赛季6月26日正式开启"
+      },
+      {
+        "id": 2265748,
+        "name": "bilibili",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=4fbb5e9ea5fb43161a1f7e78109f2e1e/f2deb48f8c5494ee82c9314c3af5e0fe98257eff.jpg?tbpicau=2026-07-30-05_97d8d5b2dbe61e184d53388bd1a08a49",
+        "member_num": 4764559,
+        "post_num": 149834387,
+        "slogan": "ACG文化及其衍生内容交流平台"
+      },
+      {
+        "id": 25952677,
+        "name": "第五人格交易",
+        "avatar": "https://imgsrc.baidu.com/forum/pic/item/ae51f3deb48f8c54ae1fbba334292df5e1fe7f69.jpg",
+        "member_num": 1604435,
+        "post_num": 152891851,
+        "slogan": "第五人格交易吧"
+      },
+      {
+        "id": 2149349,
+        "name": "奥比交易",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=9ae06349eb4bd11304cdb3306a94cc32/f7246b600c338744b98da846170fd9f9d72aa044.jpg?tbpicau=2026-07-30-05_0d3cd205ddd19e0fab0b07d6293306a1",
+        "member_num": 2719067,
+        "post_num": 207403742,
+        "slogan": "明确且有吸引力"
+      },
+      {
+        "id": 3255599,
+        "name": "asoul",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=ed4c24f03b1ed21b79c92ae79d55b5f9/f603918fa0ec08fa3be5a6a51fee3d6d54fbdacf.jpg?tbpicau=2026-07-30-05_083a3b9720ad435ddbc388c1bb0e6869",
+        "member_num": 204712,
+        "post_num": 20861597,
+        "slogan": "ASOUL粉丝贴吧聚集地"
+      },
+      {
+        "id": 28043986,
+        "name": "鸣潮爆料",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=ca38625272a85edffa8cfa21796f611e/f636afc379310a55c510d5f6f14543a9822610ff.jpg?tbpicau=2026-07-30-05_5c08f61fbc257edbff13ad3b1be7bb19",
+        "member_num": 172743,
+        "post_num": 7670460,
+        "slogan": "鸣潮前瞻资讯（爆料）讨论聚集地"
+      },
+      {
+        "id": 28004627,
+        "name": "vct赛事",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=174481d8e186c9170803563bf90618f2/86d6277f9e2f0708aab64f20af24b899a901f25b.jpg?tbpicau=2026-07-30-05_3925beae9fb626f5e8bbf37220221400",
+        "member_num": 136313,
+        "post_num": 4943334,
+        "slogan": "讨论无畏契约赛事的地方"
+      },
+      {
+        "id": 794131,
+        "name": "国产动画",
+        "avatar": "https://imgsrc.baidu.com/forum/pic/item/b999a9014c086e066463a95e01087bf40bd1cbd8.jpg",
+        "member_num": 292506,
+        "post_num": 27091286,
+        "slogan": "未琢磨的原石正在等待璀璨的那一刻"
+      },
+      {
+        "id": 27824189,
+        "name": "明日方舟终末地",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=ab75c031adc4b7453494b314ffc7762a/c8ea15ce36d3d539172049db7c87e950352ab08d.jpg?tbpicau=2026-07-30-05_8b4e3e9367001b40ff8a146c9a30bec4",
+        "member_num": 222708,
+        "post_num": 3755885,
+        "slogan": "跨越边境，直至前线"
+      },
+      {
+        "id": 27989825,
+        "name": "原神内容讨论",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=d120bda5d8510fb378197395e908a0a8/0df3d7ca7bcb0a46c5f278252d63f6246a60afde.jpg?tbpicau=2026-07-30-05_c7591bd88c857db9b283c7f1c22d5b4b",
+        "member_num": 154956,
+        "post_num": 9121991,
+        "slogan": "原神玩家的友好型社区，内含微量编料"
+      },
+      {
+        "id": 2211417,
+        "name": "faker",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=bd6f169f96a20cf44690fadd4632230b/c2fdfc039245d68830d223bce2c27d1ed31b24d2.jpg?tbpicau=2026-07-30-05_cc72e3c2793a195254d9db074a15069b",
+        "member_num": 228869,
+        "post_num": 7316503,
+        "slogan": "LOL六冠王～Faker粉丝交流吧"
+      },
+      {
+        "id": 205208,
+        "name": "巴塞罗那",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=9674f7c9c7cb39dbc1c06354e02d6119/3c6d55fbb2fb43162692e95966a4462309f7d300.jpg?tbpicau=2026-07-30-05_cc08b55ddec26e9907ec74fbaeee5cc7",
+        "member_num": 3887892,
+        "post_num": 77489788,
+        "slogan": "més que un club"
+      },
+      {
+        "id": 2016148,
+        "name": "艾欧尼亚",
+        "avatar": "https://imgsa.baidu.com/forum/pic/item/1e41a7014a90f603a3e0dea13412b31bb251edcc.jpg",
+        "member_num": 2464866,
+        "post_num": 188812991,
+        "slogan": "艾欧尼亚不会灭亡"
+      },
+      {
+        "id": 1627732,
+        "name": "dota2",
+        "avatar": "https://imgsrc.baidu.com/forum/pic/item/0b7b02087bf40ad1b310bb105d2c11dfa8ecce49.jpg",
+        "member_num": 6459631,
+        "post_num": 177935880,
+        "slogan": "DOTA2玩家聚居地"
+      }
+    ]
   }
 ]
