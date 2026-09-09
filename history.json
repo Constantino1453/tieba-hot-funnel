@@ -111928,5 +111928,210 @@
         "slogan": "任天堂跨界主机Nintendo Switch"
       }
     ]
+  },
+  {
+    "ts": "2026-09-09T22:11:04Z",
+    "forums": [
+      {
+        "id": 17019292,
+        "name": "抗压背锅",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=2d07ca6aec014c08193b2ca73a406a35/a2cc7cd98d1001e9fd2253ccfd0e7bec55e797d3.jpg?tbpicau=2026-09-21-05_6d4f5ab2236b84dd426152718571f169",
+        "member_num": 6084752,
+        "post_num": 194695450,
+        "slogan": "电竞爱好者聚集地，超越游戏，玩出精彩~"
+      },
+      {
+        "id": 28000798,
+        "name": "三角洲行动陪玩",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=50fb946072a85edffa8cfa21796f611e/f636afc379310a555fd323c4f14543a98226100f.jpg?tbpicau=2026-09-21-05_ccfa5bf7458384da9c3d15799977986f",
+        "member_num": 183652,
+        "post_num": 24327057,
+        "slogan": "查看环境、后付、双压、解决百分之百问题"
+      },
+      {
+        "id": 21841105,
+        "name": "孙笑川",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=2e6564b48b11728b302d8820f8c7abf3/1c950a7b02087bf4f5b4bcccb4d3572c11dfcfb8.jpg?tbpicau=2026-09-21-05_5b8c05288d061a8d8e8e6b77902f5d11",
+        "member_num": 7812386,
+        "post_num": 229703421,
+        "slogan": "猜猜我是谁"
+      },
+      {
+        "id": 8226656,
+        "name": "lol陪玩",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=3bc50e7af1cd7b89e96c3e813f1f2a9a/9922720e0cf3d7ca940931c6e51fbe096a63a987.jpg?tbpicau=2026-09-21-05_d7f9788ce12625e554c12b94d37f6f05",
+        "member_num": 8408825,
+        "post_num": 268148570,
+        "slogan": "全网妹子最多，高手最多的贴吧"
+      },
+      {
+        "id": 2265748,
+        "name": "bilibili",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=4fbb5e9ea5fb43161a1f7e78109f2e1e/f2deb48f8c5494ee82c9314c3af5e0fe98257eff.jpg?tbpicau=2026-09-21-05_c326b07b2d5072938596e18d5c6e1768",
+        "member_num": 4803012,
+        "post_num": 150748100,
+        "slogan": "ACG文化及其衍生内容交流平台"
+      },
+      {
+        "id": 25327918,
+        "name": "明日方舟",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=623f75dba6fe9925cb0c6d52049336e2/faedab64034f78f0af20f7ed3f310a55b3191c80.jpg?tbpicau=2026-09-21-05_b978a45458da43b4a881e5e1407bde9e",
+        "member_num": 2013195,
+        "post_num": 91943042,
+        "slogan": "从现在开始，我们需要按照时间计划进行"
+      },
+      {
+        "id": 25952677,
+        "name": "第五人格交易",
+        "avatar": "https://imgsrc.baidu.com/forum/pic/item/ae51f3deb48f8c54ae1fbba334292df5e1fe7f69.jpg",
+        "member_num": 1612688,
+        "post_num": 154376943,
+        "slogan": "第五人格交易吧"
+      },
+      {
+        "id": 27752863,
+        "name": "崩坏星穹铁道内鬼",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=473393deb4d3572c66e298deba280b1a/37d12f2eb9389b5002202465c335e5dde7116e2e.jpg?tbpicau=2026-09-21-05_9df8195ec5eca72f4368fa75fffca1fe",
+        "member_num": 431621,
+        "post_num": 22761329,
+        "slogan": "能黑不能反，能夸不能孝，全网最热本游论坛"
+      },
+      {
+        "id": 27987014,
+        "name": "cs赛事",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=13cd9f14eed3fd1f3609a63800754d22/377adab44aed2e731a928a16c101a18b87d6fa95.jpg?tbpicau=2026-09-21-05_38df011b81357a4e1cb59b060d4be8e1",
+        "member_num": 168845,
+        "post_num": 8183948,
+        "slogan": "CS系列游戏电竞爱好者聚集地"
+      },
+      {
+        "id": 1680539,
+        "name": "尐家军",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=947760367b81800a6ee58d0c810e5bc7/f703738da9773912f6341cd8ef198618367ae27d.jpg?tbpicau=2026-09-21-05_acbb8ff7a8e44507f5b99309b87c99e9",
+        "member_num": 858171,
+        "post_num": 69671104,
+        "slogan": "畅聊主播心路历程"
+      },
+      {
+        "id": 27989825,
+        "name": "原神内容讨论",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=d120bda5d8510fb378197395e908a0a8/0df3d7ca7bcb0a46c5f278252d63f6246a60afde.jpg?tbpicau=2026-09-21-05_6abeb11955f18b96e9edeb493bcbcedc",
+        "member_num": 165980,
+        "post_num": 9758263,
+        "slogan": "原神解包编料爆料吧，原神玩家的友好型社区"
+      },
+      {
+        "id": 27995444,
+        "name": "三角洲行动",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=86272bd5173d26972ed30c5f65c0dac6/a6efce1b9d16fdfa899ad0f1f28f8c5494ee7b3e.jpg?tbpicau=2026-09-21-05_d851744c3a17689114bb4e4577f66a17",
+        "member_num": 701829,
+        "post_num": 13661591,
+        "slogan": "8月8日宝藏月正式开启！"
+      },
+      {
+        "id": 2016148,
+        "name": "艾欧尼亚",
+        "avatar": "https://imgsa.baidu.com/forum/pic/item/1e41a7014a90f603a3e0dea13412b31bb251edcc.jpg",
+        "member_num": 2469168,
+        "post_num": 189632777,
+        "slogan": "艾欧尼亚不会灭亡"
+      },
+      {
+        "id": 22353267,
+        "name": "碧蓝航线",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=0dce877005a98226b8c12f25bab9d13c/37d3d539b6003af3dc8dd965732ac65c1038b684.jpg?tbpicau=2026-09-21-05_01f9610c4eb8eca2760eeeaecdda1ac7",
+        "member_num": 2456105,
+        "post_num": 57589933,
+        "slogan": ""
+      },
+      {
+        "id": 8960697,
+        "name": "kpl",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=20e984091543fbf2c52ca2218045a2bd/6609c93d70cf3bc779886ced9700baa1cd112a23.jpg?tbpicau=2026-09-21-05_92c837453a5bbb800cca69141fec41a3",
+        "member_num": 1815412,
+        "post_num": 56963178,
+        "slogan": "王者荣耀职业联赛-KPL粉丝聚集地。"
+      },
+      {
+        "id": 2149349,
+        "name": "奥比交易",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=9ae06349eb4bd11304cdb3306a94cc32/f7246b600c338744b98da846170fd9f9d72aa044.jpg?tbpicau=2026-09-21-05_5c2956dfde31a008681fa0b8845e49f0",
+        "member_num": 2720403,
+        "post_num": 209497889,
+        "slogan": "明确且有吸引力"
+      },
+      {
+        "id": 27880609,
+        "name": "血狼破军",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=97d7c60c89fc1e17fdbf88337aab9e3e/b7003af33a87e950e154827656385343fbf2b46d.jpg?tbpicau=2026-09-21-05_9567ddb64b3b8b0aca7013d69b97a9a5",
+        "member_num": 33851,
+        "post_num": 810738,
+        "slogan": "b站关注血狼破军谢谢喵"
+      },
+      {
+        "id": 28043986,
+        "name": "鸣潮爆料",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=0b8298bc923f8794d3ff4c2ce22066c9/8b13632762d0f7030848eed84efa513d2697c538.jpg?tbpicau=2026-09-21-05_5b6691c9459bff40520e273f8b27db42",
+        "member_num": 180023,
+        "post_num": 7965966,
+        "slogan": "鸣潮前瞻资讯（爆料）讨论聚集地"
+      },
+      {
+        "id": 15582070,
+        "name": "虎牙直播",
+        "avatar": "https://imgsrc.baidu.com/forum/pic/item/50da81cb39dbb6fd1bdf54df0724ab18962b3746.jpg",
+        "member_num": 881330,
+        "post_num": 17860781,
+        "slogan": "技术驱动娱乐-弹幕式互动直播平台"
+      },
+      {
+        "id": 27814154,
+        "name": "绝区零内鬼",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=802d56994c7b02080cc93be352e29aee/3801213fb80e7becbacc7ddd692eb9389b506bfc.jpg?tbpicau=2026-09-21-05_215cf25d8391406fc0936a5089e0daf7",
+        "member_num": 197180,
+        "post_num": 4958072,
+        "slogan": "只有绝区零，只要绝区零"
+      },
+      {
+        "id": 837839,
+        "name": "王者荣耀",
+        "avatar": "https://imgsrc.baidu.com/forum/pic/item/78310a55b319ebc41b5e01e88c26cffc1e171698.jpg",
+        "member_num": 14555984,
+        "post_num": 448937692,
+        "slogan": "全球首款5V5英雄公平对战手游"
+      },
+      {
+        "id": 4513750,
+        "name": "网球风云",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=a724ff266e381f309e1989ab993a2435/77094b36acaf2edd9ac784f7cb1001e9390193fe.jpg?tbpicau=2026-09-21-05_037fc518aa04fa708edd7869786736a3",
+        "member_num": 83204,
+        "post_num": 9858681,
+        "slogan": "一网情深，有球必应"
+      },
+      {
+        "id": 839326,
+        "name": "2ch",
+        "avatar": "https://imgsrc.baidu.com/forum/pic/item/b8389b504fc2d562b6d9b734e61190ef77c66c11.jpg",
+        "member_num": 730819,
+        "post_num": 20896671,
+        "slogan": "贴吧的二频道，属于2吃货的萌翻译和有爱水"
+      },
+      {
+        "id": 28004627,
+        "name": "vct赛事",
+        "avatar": "https://tiebapic.baidu.com/forum/w%3D120%3Bh%3D120/sign=174481d8e186c9170803563bf90618f2/86d6277f9e2f0708aab64f20af24b899a901f25b.jpg?tbpicau=2026-09-21-05_556d0cb9b4c669d0fad075a2a218157f",
+        "member_num": 141461,
+        "post_num": 5158271,
+        "slogan": "讨论无畏契约赛事的地方"
+      },
+      {
+        "id": 503680,
+        "name": "ns",
+        "avatar": "https://imgsrc.baidu.com/forum/pic/item/63d9f2d3572c11dfccf63f716d2762d0f703c2b9.jpg",
+        "member_num": 693981,
+        "post_num": 14228592,
+        "slogan": "任天堂跨界主机Nintendo Switch"
+      }
+    ]
   }
 ]
